@@ -75,3 +75,5 @@ END;
 
 ## RESULT
 Thus, the PL/SQL trigger programs were written and executed successfully.
+
+
