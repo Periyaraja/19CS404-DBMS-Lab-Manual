@@ -52,7 +52,7 @@ END;
 
 **Expected Output:**
 - The `last_modified` column in the `products` table is updated automatically to the current date and time when any record is updated.
-
+HAUAUA
 ---
 
 ## 4. Write a trigger to keep track of the number of updates made to a table.
@@ -75,4 +75,5 @@ END;
 
 ## RESULT
 Thus, the PL/SQL trigger programs were written and executed successfully.
+
 
